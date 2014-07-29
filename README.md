@@ -1,8 +1,6 @@
 <!--- 
-disable page number
--->
 \pagenumbering{gobble}
-
+-->
 Hao Luo
 ======
  - 3rd year P.h.D. student in Computer Science
