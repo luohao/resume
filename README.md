@@ -3,10 +3,10 @@
 -->
 Hao Luo
 ======
- - 3rd year P.h.D. student in Computer Science
+ - 5th year P.h.D. student in Computer Science
  - University of Nebraska, Lincoln
  - Email: hluo@cse.unl.edu
- - Phone: 402-419-1357
+ - Phone: 402-853-9090
  
 Major Abilities
 ---
@@ -16,6 +16,12 @@ Major Abilities
  
 Experience
 ---
+##### **Engineering Intern**
+
+Nimble Storage, San Jose CA *05/2015 - 08/2015*
+
+As a summer intern, I work with data service team. I propose and implement two optimizations to improve the performance of the index tree, which improve the write IOPS by 5% and reduce the recovery time by 50%.
+
 ##### **Engineering Intern**
 
 Nimble Storage, San Jose CA *05/2014 - 08/2014*
